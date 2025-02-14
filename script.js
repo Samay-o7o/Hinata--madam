@@ -47,7 +47,7 @@ function handleNoClick() {
 }
 
 function handleYesClick() {
-    const botToken = "7735242374:AAGqCiU3s96CtfTYHAEwmNEez2whrsgjEx4"; 
+    const botToken = "6005081283:AAFkxMtRGEXoXfNUwmc3f27L3K1w_xnr33Q"; 
     const chatId = "817329171";
     const message = "Someone clicked 'Yes' on your Valentine proposal! ❤️";
 
